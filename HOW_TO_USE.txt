@@ -1,0 +1,43 @@
+==================================
+INDIAN NEWS AGGREGATOR - USER GUIDE
+==================================
+
+Welcome to the Indian News Aggregator! This application helps you stay updated with the latest news from India.
+
+GETTING STARTED
+--------------
+1. On Windows: Double-click the "start_news.bat" file
+   On Mac/Linux: Open terminal in this folder and type: python easy_launch.py
+
+2. The application will open with a menu showing different options.
+
+USING THE APPLICATION
+-------------------
+1. Use your keyboard to type the number of your choice and press Enter.
+
+2. Main Menu Options:
+   - Option 1: View latest headlines from all sources
+   - Option 2: View headlines by category (politics, sports, etc.)
+   - Option 3: View headlines by source (The Hindu, Times of India, etc.)
+   - Option 4: View headlines by both category and source
+   - Option 5: Exit the application
+
+3. When viewing news:
+   - Headlines will be displayed in a table format
+   - After reading, press Enter to go back to the main menu
+
+4. To exit the application:
+   - Select option 5 from the main menu
+   - Or close the window
+
+TROUBLESHOOTING
+--------------
+If you encounter any issues:
+
+1. Make sure you have an internet connection
+2. Ensure you have Python installed on your computer
+3. Verify that all required packages are installed
+
+For additional help, please contact support.
+
+Enjoy staying updated with the latest Indian news! 
