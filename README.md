@@ -110,8 +110,4 @@ For bugs, feature requests, or other inquiries:
 - Email: jairajkolhatkar@gmail.com
 - GitHub Issues: https://github.com/JairajKolhatkar/News-Aggregator-CLI-App/issues
 
-## License
-
-MIT
-
 
